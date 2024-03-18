@@ -2,12 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "gongwenjia_blog",
     "description": "",
-    "home_page_url": "https://gongwenjia.GitHub.io.git",
-    "feed_url": "https://gongwenjia.GitHub.io.git/feed.json",
+    "home_page_url": "https://gongwenjia.GitHub.io",
+    "feed_url": "https://gongwenjia.GitHub.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "gongwenjia"
     },
     "items": [
+        {
+            "id": "https://gongwenjia.GitHub.io/ce-shi.html",
+            "url": "https://gongwenjia.GitHub.io/ce-shi.html",
+            "title": "测试",
+            "summary": "测试",
+            "content_html": "<p>测试</p>",
+            "author": {
+                "name": "gongwenjia"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-18T16:51:12+08:00",
+            "date_modified": "2024-03-18T16:51:12+08:00"
+        }
     ]
 }
