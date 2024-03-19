@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://gongwenjia.GitHub.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://gongwenjia.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://gongwenjia.GitHub.io/</loc>
+<loc>https://gongwenjia.github.io/</loc>
 </url>
 <url>
-<loc>https://gongwenjia.GitHub.io/ce-shi.html</loc>
+<loc>https://gongwenjia.github.io/ce-shi.html</loc>
 <lastmod>2024-03-18T17:14:03+08:00</lastmod>
 <image:image>
-<image:loc>https://gongwenjia.GitHub.io/media/posts/1/Wei-Xin-Tu-Pian_20231204101522.jpg</image:loc>
+<image:loc>https://gongwenjia.github.io/media/posts/1/Wei-Xin-Tu-Pian_20231204101522.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

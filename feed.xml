@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>gongwenjia_blog</title>
-    <link href="https://gongwenjia.GitHub.io/feed.xml" rel="self" />
-    <link href="https://gongwenjia.GitHub.io" />
+    <link href="https://gongwenjia.github.io/feed.xml" rel="self" />
+    <link href="https://gongwenjia.github.io" />
     <updated>2024-03-18T17:14:03+08:00</updated>
     <author>
         <name>gongwenjia</name>
     </author>
-    <id>https://gongwenjia.GitHub.io</id>
+    <id>https://gongwenjia.github.io</id>
 
     <entry>
         <title>测试</title>
         <author>
             <name>gongwenjia</name>
         </author>
-        <link href="https://gongwenjia.GitHub.io/ce-shi.html"/>
-        <id>https://gongwenjia.GitHub.io/ce-shi.html</id>
+        <link href="https://gongwenjia.github.io/ce-shi.html"/>
+        <id>https://gongwenjia.github.io/ce-shi.html</id>
 
         <updated>2024-03-18T16:51:12+08:00</updated>
             <summary>
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>测试</p>
-<figure class="post__image"><img loading="lazy"  src="https://gongwenjia.GitHub.io/media/posts/1/Wei-Xin-Tu-Pian_20231204101522.jpg" alt="" width="500" height="500" sizes="100vw" srcset="https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-xs.jpg 300w ,https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-sm.jpg 480w ,https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-md.jpg 768w ,https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-lg.jpg 1024w ,https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-xl.jpg 1360w ,https://gongwenjia.GitHub.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-2xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://gongwenjia.github.io/media/posts/1/Wei-Xin-Tu-Pian_20231204101522.jpg" alt="" width="500" height="500" sizes="100vw" srcset="https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-xs.jpg 300w ,https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-sm.jpg 480w ,https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-md.jpg 768w ,https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-lg.jpg 1024w ,https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-xl.jpg 1360w ,https://gongwenjia.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20231204101522-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
